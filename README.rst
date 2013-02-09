@@ -13,3 +13,7 @@ Requirements
 ============
 * Django
 * django-user-accounts
+
+Documentation
+============
+See http://ever-day.blogspot.jp/2013/02/django-ldap-user-account.html
